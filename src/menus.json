@@ -1,0 +1,212 @@
+[
+    {   
+        "name": "Home", 
+        "url": "" 
+    },
+    {   
+        "name": "About us", 
+        "url": "about-us",
+        "menus": [
+            {
+                "name": "Who are we?",
+                "url": "who-are-we"
+            },
+            {
+                "name": "Mission and Vision",
+                "url": "mission-and-vision"
+            },
+            {
+                "name": "The Region",
+                "url": "the-region"
+            },
+            {
+                "name": "Profile of Psychological Trauma",
+                "url": "profile-of-psychological-trauma"
+            },
+            {
+                "name": "History",
+                "url": "history"
+            },
+            {
+                "name": "Partners",
+                "url": "partners"
+            },
+            {
+                "name": "Get Involved",
+                "url": "get-involved"
+            },
+            {
+                "name": "Reports",
+                "url": "reports",
+                "menus": [
+                    {
+                        "name": "Monthly Reports",
+                        "url": "monthly-reports"
+                    },
+                    {
+                        "name": "Annual and Semi-Annual Reports",
+                        "url": "annual-and-semi-annual-reports"
+                    }
+                ]
+            }
+        ]
+    },
+    {   
+        "name": "Our work", 
+        "url": "our-work",
+        "menus": [
+            {
+                "name": "Philosophy",
+                "url": "philosophy"
+            },
+            {
+                "name": "Social Inclusion",
+                "url": "social-inclusion"
+            },
+            {
+                "name": "Community-based Training",
+                "url": "community-based-training"
+            },
+            {
+                "name": "Groups with which We Work",
+                "url": "groups-with-which-we-work"
+            },
+            {
+                "name": "Peer Counseling and Self-Help Groups",
+                "url": "peer-counseling-and-self-help-groups"
+            },
+            {
+                "name": "Education",
+                "url": "education",
+                "menus": [
+                    {
+                        "name": "Onsite Education",
+                        "url": "onsite-education"
+                    },
+                    {
+                        "name": "\"Blended\" Education in Croatia and Other Regions",
+                        "url": "blended-education-in-croatia-and-other-regions"
+                    },
+                    {
+                        "name": "How You Can Request a Course or Counseling",
+                        "url": "how-you-can-request-a-course-or-counseling"
+                    },
+                    {
+                        "name": "Internships, The Summer Program, and Other Possibilities for Students",
+                        "url": "interships-the-summer-program-and-other-possibilities-for-students"
+                    }
+                ]
+            },
+            {
+                "name": "Supervision",
+                "url": "supervision"
+            },
+            {
+                "name": "Work with people",
+                "url": "work-with-people"
+            },
+            {
+                "name": "Sensitization",
+                "url": "sensitization"
+            },
+            {
+                "name": "The Migrant Project",
+                "url": "the-migrant-project"
+            }
+        ]
+    },
+    {   
+        "name": "PET", 
+        "url": "pet",
+        "menus": [
+            {
+                "name": "Pragmatic Empowerment Training (PET)",
+                "url": "pragmatic-empowerment-training"
+            },
+            {
+                "name": "Course 1: The Caregiver-Client Relationship",
+                "url": "course-1-the-caregiver-client-relationship",
+                "menus": [
+                    {
+                        "name": "1 Introduction",
+                        "url": "introduction",
+                        "menus": [
+                            {
+                                "name": "1 Introduction to the PET",
+                                "url": "introduction-to-the-pet"
+                            },
+                            {
+                                "name": "The CWWPP",
+                                "url": "the-cwwpp",
+                                "menus": [
+                                    {
+                                        "name": "Introduction to the CWWPP - Comments",
+                                        "url": "introduction-to-the-cwwpp-comments"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "3 PET",
+                                "url": "pet"
+                            },
+                            {
+                                "name": "4 Facilitation",
+                                "url": "facilitation"
+                            },
+                            {
+                                "name": "Additional Remarks on the Course",
+                                "url": "additional-remarks-on-the-course",
+                                "menus": [
+                                    {
+                                        "name": "Inventarization",
+                                        "url": "inventarization"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "2 The Caregiver-Client Relationship",
+                        "url": "the-caregiver-client-relationship",
+                        "menus": []
+                    },
+                    {
+                        "name": "3 Self-Care",
+                        "url": "self-care",
+                        "menus": []
+                    },
+                    {
+                        "name": "4 Final Remarks and Activities for the Course",
+                        "url": "final-remarks-and-activities-for-the-course",
+                        "menus": [
+                            {
+                                "name": "Activities - Final Remarks for the Course",
+                                "url": "activities-final-remarks-for-the-course"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {   
+        "name": "Library",
+        "url": "library"
+    },
+    {   
+        "name": "Contact us",
+        "url": "contact-us"
+    },
+    {   
+        "name": "Links",
+        "url": "links"
+    },
+    {   
+        "name": "Donate",
+        "url": "donate"
+    },
+    {   
+        "name": "Podcast",
+        "url": "podcast"
+    }
+]
